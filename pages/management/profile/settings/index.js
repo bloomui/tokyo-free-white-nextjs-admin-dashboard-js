@@ -1,7 +1,7 @@
 import { useState, ChangeEvent } from 'react';
 import Head from 'next/head';
 import SidebarLayout from 'src/layouts/SidebarLayout';
-import PageHeader from 'src/content/Management/Users/Settings/PageHeader';
+import PageHeader from 'src/content/Management/Users/settings/PageHeader';
 import PageTitleWrapper from 'src/components/PageTitleWrapper';
 import { Container, Tabs, Tab, Grid } from '@mui/material';
 import Footer from 'src/components/Footer';
